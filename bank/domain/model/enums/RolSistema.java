@@ -1,0 +1,13 @@
+package com.bank.domain.model.enums;
+
+public enum RolSistema {
+
+    CLIENTE_PERSONA_NATURAL,
+    CLIENTE_EMPRESA,
+    EMPLEADO_VENTANILLA,
+    EMPLEADO_COMERCIAL,
+    EMPLEADO_EMPRESA,
+    SUPERVISOR_EMPRESA,
+    ANALISTA_INTERNO
+
+}
